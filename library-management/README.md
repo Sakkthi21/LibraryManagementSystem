@@ -47,23 +47,17 @@ src/
 
 ## 🚀 Getting Started
 
-1. Clone the repository
-```bash
-git clone <repository-url>
-cd library-management
-```
-
-2. Install dependencies
+1. Install dependencies
 ```bash
 npm install
 ```
 
-3. Set up Firebase configuration
+2. Set up Firebase configuration
 - Create a Firebase project
 - Enable Authentication and Firestore
 - Copy your Firebase config to `src/firebase.js`
 
-4. Start the development server
+3. Start the development server
 ```bash
 npm start
 ```
